@@ -33,3 +33,31 @@ footer {
 footer p {
   text-align: center;
 }
+
+/* 2. Text styling */
+
+html {
+
+}
+
+h1,
+h2 {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+section h2 + p {
+
+}
+
+p,
+li {
+
+}
