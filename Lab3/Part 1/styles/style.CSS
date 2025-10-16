@@ -35,3 +35,12 @@ padding:30px;
 border-radius: 20px;
 }
 
+a {
+colour: green;
+}
+
+a:hover,
+a:focus {
+colour: darkgreen;
+text-decoration: none;
+}
