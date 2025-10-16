@@ -17,6 +17,21 @@ font-size: 2rem;
 }
 
 h2 {
-font-style: italic
-font-size: 1.5rem
+font-style: italic;
+font-size: 1.5rem;
 }
+
+job-title {
+color: darkslategrey;
+border: 5px solid purple;
+padding: 30px;
+border-radius: 20px;
+}
+
+ul {
+background-colour: white;
+border: 5px solid purple;
+padding:30px;
+border-radius: 20px;
+}
+
